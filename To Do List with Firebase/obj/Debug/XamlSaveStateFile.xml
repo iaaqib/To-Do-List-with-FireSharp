@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\silen\documents\visual studio 2015\projects\to do list with firebase\to do list with firebase\obj\debug\intermediatexaml\to do list with firebase.exe" HashGuid="00314824-b28b-d0d6-d665-8d932f869dfa" />
+    <ReferenceAssembly PathName="c:\users\silen\documents\visual studio 2015\projects\to do list with firebase\packages\firesharp.2.0.3\lib\portable-net45+sl5+wp8+win8\firesharp.dll" HashGuid="37aaf8bb-b64d-3bcb-1098-7521354ea848" />
+    <ReferenceAssembly PathName="c:\users\silen\documents\visual studio 2015\projects\to do list with firebase\packages\microsoft.bcl.async.1.0.168\lib\win8\microsoft.threading.tasks.dll" HashGuid="3a1beea5-1547-d5c6-af32-3b5c761c2a6a" />
+    <ReferenceAssembly PathName="c:\users\silen\documents\visual studio 2015\projects\to do list with firebase\packages\microsoft.bcl.async.1.0.168\lib\win8\microsoft.threading.tasks.extensions.dll" HashGuid="79a01987-c06c-c9d7-37eb-629809787680" />
+    <ReferenceAssembly PathName="c:\users\silen\documents\visual studio 2015\projects\to do list with firebase\packages\newtonsoft.json.6.0.4\lib\netcore45\newtonsoft.json.dll" HashGuid="21d6fdf9-5b56-582d-4524-cf342594819a" />
+    <ReferenceAssembly PathName="c:\users\silen\documents\visual studio 2015\projects\to do list with firebase\packages\microsoft.net.http.2.2.28\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\silen\documents\visual studio 2015\projects\to do list with firebase\packages\microsoft.net.http.2.2.28\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

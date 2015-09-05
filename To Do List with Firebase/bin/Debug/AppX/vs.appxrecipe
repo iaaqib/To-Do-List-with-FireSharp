@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-2L19LCI</Machine>
+    <WindowsUser>silen</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>acfecc66-8b21-4e5f-8a97-c80d991f4e94</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\silen\documents\visual studio 2015\Projects\To Do List with Firebase\To Do List with Firebase\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>2E029694BEEF9AD4468AC19E3545BA01E64739394FE1331C6D1EAD81DF2629CC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>acfecc66-8b21-4e5f-8a97-c80d991f4e94_1.0.0.0_neutral__zz373why4zdcc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>acfecc66-8b21-4e5f-8a97-c80d991f4e94_zz373why4zdcc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>acfecc66-8b21-4e5f-8a97-c80d991f4e94</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=silen</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\silen\documents\visual studio 2015\Projects\To Do List with Firebase\To Do List with Firebase\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-05T16:22:32.509</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\silen\documents\visual studio 2015\Projects\To Do List with Firebase\To Do List with Firebase\bin\Debug\To Do List with Firebase.exe">
+      <PackagePath>To Do List with Firebase.exe</PackagePath>
+      <Modified>2015-09-05T16:22:31.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\silen\documents\visual studio 2015\Projects\To Do List with Firebase\packages\FireSharp.2.0.3\lib\portable-net45+sl5+wp8+win8\FireSharp.dll">
+      <PackagePath>FireSharp.dll</PackagePath>
+      <Modified>2015-09-05T16:18:40.319</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\silen\documents\visual studio 2015\Projects\To Do List with Firebase\packages\Microsoft.Bcl.Async.1.0.168\lib\win8\Microsoft.Threading.Tasks.dll">
+      <PackagePath>Microsoft.Threading.Tasks.dll</PackagePath>
+      <Modified>2015-09-05T16:18:21.575</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\silen\documents\visual studio 2015\Projects\To Do List with Firebase\packages\Microsoft.Bcl.Async.1.0.168\lib\win8\Microsoft.Threading.Tasks.Extensions.dll">
+      <PackagePath>Microsoft.Threading.Tasks.Extensions.dll</PackagePath>
+      <Modified>2015-09-05T16:18:21.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\silen\documents\visual studio 2015\Projects\To Do List with Firebase\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-09-05T16:18:34.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\silen\documents\visual studio 2015\Projects\To Do List with Firebase\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2015-09-05T16:18:29.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\silen\documents\visual studio 2015\Projects\To Do List with Firebase\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2015-09-05T16:18:29.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\silen\documents\visual studio 2015\Projects\To Do List with Firebase\To Do List with Firebase\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T17:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\silen\documents\visual studio 2015\Projects\To Do List with Firebase\To Do List with Firebase\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T17:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\silen\documents\visual studio 2015\Projects\To Do List with Firebase\To Do List with Firebase\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T17:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\silen\documents\visual studio 2015\Projects\To Do List with Firebase\To Do List with Firebase\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T17:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\silen\documents\visual studio 2015\Projects\To Do List with Firebase\To Do List with Firebase\bin\Debug\To Do List with Firebase.xr.xml">
+      <PackagePath>To Do List with Firebase.xr.xml</PackagePath>
+      <Modified>2015-09-05T16:22:30.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\silen\documents\visual studio 2015\Projects\To Do List with Firebase\To Do List with Firebase\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-09-05T16:22:31.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\silen\documents\visual studio 2015\Projects\To Do List with Firebase\To Do List with Firebase\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-09-05T16:22:31.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\silen\documents\visual studio 2015\Projects\To Do List with Firebase\To Do List with Firebase\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-09-05T16:22:31.948</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
